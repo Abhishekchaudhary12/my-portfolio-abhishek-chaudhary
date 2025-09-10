@@ -8,7 +8,7 @@ export const projects = [
   {
     title: "Portfolio Website",
     desc: "A personal portfolio built with Next.js and Tailwind CSS.",
-    link: "https://your-portfolio-link.com",
+    link: "https://github.com/Abhishekchaudhary12/my-portfolio-abhishek-chaudhary",
     
   },
   {
