@@ -12,10 +12,10 @@ export default function About() {
             "url('https://i.pinimg.com/1200x/cc/1f/b7/cc1fb7bcd875829e016848e94e2d1926.jpg')",
         }}
       >
-        <div className="w-full h-full bg-white/30"></div> {/* Overlay */}
+        <div className="w-full h-full bg-white/30"></div> 
       </div>
 
-      {/* Content (on top of background) */}
+      
       <div className="relative z-10 w-full md:w-1/2 px-6 md:px-12 py-16 flex flex-col justify-center md:text-left text-center">
         <h2 className="text-4xl md:text-6xl font-extrabold text-black drop-shadow mb-6">
           About Me

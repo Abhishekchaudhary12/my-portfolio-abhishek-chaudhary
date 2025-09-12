@@ -17,7 +17,7 @@ export default function Experience() {
       <div className="max-w-5xl mx-auto px-6 flex flex-col md:flex-row">
         {/* Left Side (Timeline) */}
         <div className="w-full md:w-2/3">
-          <h2 className="text-3xl font-bold mb-12 text-black md:text-left text-center">Experience</h2>
+          <h2 className="text-4xl md:text-6xl font-bold mb-12 text-black md:text-left text-center">Experience</h2>
 
           <div className="relative border-l border-blue-500">
             {experience.map((item, i) => (
@@ -25,7 +25,7 @@ export default function Experience() {
                 {/* Timeline dot */}
                 <div className="absolute w-3 h-3 bg-blue-500 rounded-full mt-2.5 -left-1.5 border border-white"></div>
 
-                <h3 className="text-xl font-semibold text-blue-600">
+                <h3 className="text-3xl font-semibold text-blue-600">̦
                   {item.role}
                 </h3>
                 <span className="block text-sm text-black">

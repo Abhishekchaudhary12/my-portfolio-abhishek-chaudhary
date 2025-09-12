@@ -20,7 +20,7 @@ export default function Projects() {
 
         {/* Right side (Projects Content) */}
         <div className="w-full md:w-2/3 md:text-right text-center">
-          <h2 className="text-3xl md:text-5xl font-bold mb-12 text-black">
+          <h2 className="text-4xl md:text-6xl font-bold mb-12 text-black">
             Projects
           </h2>
 

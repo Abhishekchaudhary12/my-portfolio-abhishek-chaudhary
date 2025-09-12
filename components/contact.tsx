@@ -69,7 +69,7 @@ export default function Contact() {
               value={form.name}
               onChange={handleChange}
               placeholder="Your Name"
-              className="w-full mt-2 px-4 py-3 rounded-lg bg-white/5 border border-gray-600 text-white placeholder-gray-400 focus:ring-2 focus:ring-blue-500 focus:outline-none"
+              className="w-full mt-2 px-4 py-3 rounded-lg bg-white/20 border border-gray-600 text-black placeholder-gray-400 focus:ring-2 focus:ring-blue-500 focus:outline-none appearance-none"
               required
             />
           </div>
@@ -84,7 +84,7 @@ export default function Contact() {
               value={form.email}
               onChange={handleChange}
               placeholder="you@example.com"
-              className="w-full mt-2 px-4 py-3 rounded-lg bg-white/5 border border-gray-600 text-white placeholder-gray-400 focus:ring-2 focus:ring-blue-500 focus:outline-none"
+              className="w-full mt-2 px-4 py-3 rounded-lg bg-white/20 border border-gray-600 text-black placeholder-gray-400 focus:ring-2 focus:ring-blue-500 focus:outline-none appearance-none"
               required
             />
           </div>
