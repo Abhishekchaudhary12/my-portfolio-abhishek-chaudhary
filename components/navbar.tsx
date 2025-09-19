@@ -83,12 +83,15 @@ export default function Navbar() {
               </Link>
             ))}
             <Link
-              href="/resume.pdf"
-              className="py-1"
-              onClick={() => setOpen(false)}
+            href="https://drive.google.com/file/d/196VwNkfL7fouKBengJDhxrXb7BRIxP7u/view?usp=drivesdk"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="py-1"
+            onClick={() => setOpen(false)}
             >
-              Resume
-            </Link>
+            Resume
+           </Link>
+
           </div>
         </div>
       )}

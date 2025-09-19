@@ -12,4 +12,6 @@ export const skills = [
   "Algorithms",
   "Data Structures",
   "Database Management",
+  "SQL",
+  "Database",
 ];
