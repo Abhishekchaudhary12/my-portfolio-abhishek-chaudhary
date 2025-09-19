@@ -39,7 +39,7 @@ export default function Hero() {
         <div className="max-w-xl text-center md:text-left">
           <p className="mt-6 text-lg md:text-xl text-black">
             A passionate{" "}
-            <span className="font-bold text-blue-900">Frontend Developer</span>{" "}
+            <span className="font-bold text-blue-900">Software  Engineer</span>{" "}
             skilled in React, Next.js, and modern web design. I love building
             interactive and user-friendly applications.
           </p>

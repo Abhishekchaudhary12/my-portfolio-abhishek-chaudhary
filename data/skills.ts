@@ -8,5 +8,8 @@ export const skills = [
   "JavaScript",
   "Git",
   "Responsive Design",
-  "B.tech core Skills"
+  "B.tech core Skills",
+  "Algorithms",
+  "Data Structures",
+  "Database Management",
 ];
