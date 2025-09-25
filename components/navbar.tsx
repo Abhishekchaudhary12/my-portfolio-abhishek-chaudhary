@@ -31,7 +31,7 @@ export default function Navbar() {
               </Link>
             ))}
             <Link
-              href="https://drive.google.com/file/d/196VwNkfL7fouKBengJDhxrXb7BRIxP7u/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1ZlSGQg3LO9X098zf1WiBr0vwbROyvUxf/view?usp=drivesdk"
               className="px-3 py-1.5 rounded-lg border hover:bg-blue-500"
             >
               Resume
